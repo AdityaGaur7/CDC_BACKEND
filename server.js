@@ -7,10 +7,11 @@ const app = express();
 const PORT  = process.env.PORT || 5000;
 
 // Connect to MongoDB database
-
+const URL = 'mongodb+srv://adkumar7112:ECFLZi6EPvP8aSI0@cluster0.nvhcrpa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const LOCAL_URL = 'mongodb://localhost:27017/certificates';
 app.use(cors());
 app.use(bodyParser.json());
-mongoose.connect('mongodb://localhost:27017/certificates');
+mongoose.connect(URL);
 
 
 const CertificateSchema = new mongoose.Schema({
