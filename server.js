@@ -3,7 +3,10 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const bodyParser = require('body-parser');
 const app = express();
-const PORT = 5000;
+
+const PORT  = process.env.PORT || 5000;
+
+// Connect to MongoDB database
 
 app.use(cors());
 app.use(bodyParser.json());
@@ -19,6 +22,15 @@ const Certificate = mongoose.model('Certificate', CertificateSchema);
 
 
 app.use(express.json());
+
+app.get('/',async(req,res)=>{
+  try{
+
+    res.send('backend running successfully');
+  }catch(e){
+    res.send(e);
+  }
+})
 
 app.post('/verify/add',async(req,res)=>{
   try{
