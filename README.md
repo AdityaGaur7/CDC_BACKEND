@@ -7,7 +7,8 @@
 
 CDC (Coders And Developers Clubs) is a community-driven organization dedicated to fostering a passion for coding and development among enthusiasts. This repository contains the source code for the CDC website, where you can learn about our vision, goals, upcoming contests, query resolution through StackOverflow, certificate verification for winners, team information, and contact details.
 
-<img src="insert_logo_url_here" alt="CDC Logo" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+
+![Screenshot (435)](https://github.com/AdityaGaur7/CDC_BACKEND/assets/121216575/be33b5ad-c3ad-4d53-a613-342c9754678f)
 
 <p style="margin-bottom: 20px;">CDC (Coders And Developers Clubs) is a community-driven organization dedicated to fostering a passion for coding and development among enthusiasts. This repository contains the source code for the CDC website, where you can learn about our vision, goals, upcoming contests, query resolution through StackOverflow, certificate verification for winners, team information, and contact details.</p>
 
