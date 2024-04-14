@@ -6,18 +6,18 @@
 
 CDC (Coders And Developers Clubs) is a community-driven organization dedicated to fostering a passion for coding and development among enthusiasts. This repository contains the source code for the CDC website, where you can learn about our vision, goals, upcoming contests, query resolution through StackOverflow, certificate verification for winners, team information, and contact details.
 
-        <img src="insert_logo_url_here" alt="CDC Logo" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="insert_logo_url_here" alt="CDC Logo" style="max-width: 100%; height: auto; margin-bottom: 20px;">
 
-        <p style="margin-bottom: 20px;">CDC (Coders And Developers Clubs) is a community-driven organization dedicated to fostering a passion for coding and development among enthusiasts. This repository contains the source code for the CDC website, where you can learn about our vision, goals, upcoming contests, query resolution through StackOverflow, certificate verification for winners, team information, and contact details.</p>
+<p style="margin-bottom: 20px;">CDC (Coders And Developers Clubs) is a community-driven organization dedicated to fostering a passion for coding and development among enthusiasts. This repository contains the source code for the CDC website, where you can learn about our vision, goals, upcoming contests, query resolution through StackOverflow, certificate verification for winners, team information, and contact details.</p>
 
-        <h2 style="font-size: 1.5em; margin-bottom: 15px;">Tech Stack</h2>
+ <h2 style="font-size: 1.5em; margin-bottom: 15px;">Tech Stack</h2>
         <ul style="list-style-type: none; padding: 0;">
             <li><strong>Frontend:</strong> React.js</li>
             <li><strong>Backend:</strong> Node.js, Express</li>
             <li><strong>Database:</strong> MongoDB Atlas</li>
         </ul>
 
-        <h2 style="font-size: 1.5em; margin-bottom: 15px;">Features</h2>
+  <h2 style="font-size: 1.5em; margin-bottom: 15px;">Features</h2>
         <ul style="list-style-type: none; padding: 0;">
             <li><strong>Upcoming Contest Section:</strong> Stay updated with the latest contests organized by CDC.</li>
             <li><strong>Query Resolution Section:</strong> Get your coding queries resolved through the integration with StackOverflow.</li>
@@ -27,7 +27,7 @@ CDC (Coders And Developers Clubs) is a community-driven organization dedicated t
             <li><strong>Events Page:</strong> Explore past events conducted by CDC.</li>
         </ul>
 
-        <h2 style="font-size: 1.5em; margin-bottom: 15px;">Contributors</h2>
+ <h2 style="font-size: 1.5em; margin-bottom: 15px;">Contributors</h2>
         <ul style="list-style-type: none; padding: 0;">
             <li>AdityaGaur7</li>
             <li>GrandMaster2004</li>
@@ -36,7 +36,7 @@ CDC (Coders And Developers Clubs) is a community-driven organization dedicated t
             <li>viveksingh91</li>
         </ul>
 
-        <h2 style="font-size: 1.5em; margin-bottom: 15px;">Getting Started</h2>
+ <h2 style="font-size: 1.5em; margin-bottom: 15px;">Getting Started</h2>
         <p style="margin-bottom: 20px;">To get a local copy up and running follow these simple steps.</p>
         <h3 style="font-size: 1.2em; margin-bottom: 10px;">Prerequisites</h3>
         <ul style="list-style-type: none; padding: 0;">
@@ -54,6 +54,5 @@ CDC (Coders And Developers Clubs) is a community-driven organization dedicated t
             <li>Run the development server</li>
             <pre><code>npm start</code></pre>
         </ol>
-
-        <a href="#" style="display: inline-block; background-color: #007bff; color: #fff; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin-top: 20px;" class="button">View Repository</a>
+  <a href="#" style="display: inline-block; background-color: #007bff; color: #fff; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin-top: 20px;" class="button">View Repository</a>
 
