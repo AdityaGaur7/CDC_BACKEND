@@ -1,4 +1,4 @@
-# Welcome to CDC (Coders And Developers Clubs) Website
+# CDC (Coders And Developers Clubs) Website
 
 ![CDC Logo](insert_logo_url_here)
 
@@ -19,20 +19,25 @@ CDC (Coders And Developers Clubs) is a community-driven organization dedicated t
 - **Contact Us**: Reach out to us for any queries or collaboration opportunities.
 - **Events Page**: Explore past events conducted by CDC.
 
-## Developers⭐
+## Contributors
 
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/TusharKesarwani/CodeChefMMMUTChapter/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=TusharKesarwani/CodeChefMMMUTChapter" />
-</a>
-</td>
-</tr>
-</table>
+- AdityaGaur7
+- GrandMaster2004
+- varshaa-7
+- TejasMishr
+- viveksingh91
 
-<div align="center">
+## Getting Started
 
-### Show some ❤️ by starring⭐ this awesome Repository!
+To get a local copy up and running follow these simple steps.
 
-</div>
+### Prerequisites
+
+- Node.js installed on your machine
+- MongoDB Atlas account (for database access)
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
